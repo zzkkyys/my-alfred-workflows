@@ -38,3 +38,13 @@ Examples:
     <td><img src="https://github.com/zzkkyys/alfred-iterm2-vscode-cursor/raw/main/imgs/vscode.gif" width=270></td>
   </tr>
  </table>
+
+
+# Other workflows
+
+Then, I list the workflows of others that are very useful in my work:
+
+
+|Name| URL| desc|
+|---|---|---|
+|hide-show-alfred-workflow| [GitHub](https://github.com/vanstrouble/hide-show-alfred-workflow)| **hide and show** all active windows in macOS desktops|
